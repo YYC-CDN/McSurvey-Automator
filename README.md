@@ -17,4 +17,8 @@ Features
 
 Usage Instructions
 
-Run the EXE
+Download the .zip file from the green code button up top. Extract it and th .exe is inside. 
+Create a file and add the codes in it, one on each line and save your file.
+Run the EXE, it will ask you for the file.
+It will appear like it's hanging, but it will soon startup and will ask you for the file.
+Change your IP after every 5 surveys. The app will stop after 5 are competed and prompt you for an IP change.
